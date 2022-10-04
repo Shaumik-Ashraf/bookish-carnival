@@ -1,9 +1,9 @@
 # Bookish Carnival
 
 [![Jekyll site CI](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/jekyll-docker.yml)
-[![pages-build-deployment](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/pages/pages-build-deployment)
 
-Trying Jekyll &amp; GitHub Pages (again)
+Trying Jekyll &amp; GitHub Pages (again). See <https://shaumik-ashraf.github.io/bookish-carnival>
 
 ## Devlog
  - create repo from GitHub
