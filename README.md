@@ -1,5 +1,8 @@
 # Bookish Carnival
 
+[![Jekyll site CI](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/Shaumik-Ashraf/bookish-carnival/actions/workflows/jekyll-docker.yml)
+
+
 Trying Jekyll &amp; GitHub Pages (again)
 
 ## Devlog
