@@ -18,6 +18,7 @@ GitHub actions for deploying Jekyll fails!! (Both the jekyll.yml 3rd party one a
 
 You cannot disable the pages action.
 
+Salvaged
 =======
 
 ## Devlog cont'd
